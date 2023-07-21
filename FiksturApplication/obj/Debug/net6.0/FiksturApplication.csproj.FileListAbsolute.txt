@@ -1,0 +1,15 @@
+C:\Users\Omer\source\repos\FiksturApplication\FiksturApplication\bin\Debug\net6.0\FiksturApplication.exe
+C:\Users\Omer\source\repos\FiksturApplication\FiksturApplication\bin\Debug\net6.0\FiksturApplication.deps.json
+C:\Users\Omer\source\repos\FiksturApplication\FiksturApplication\bin\Debug\net6.0\FiksturApplication.runtimeconfig.json
+C:\Users\Omer\source\repos\FiksturApplication\FiksturApplication\bin\Debug\net6.0\FiksturApplication.dll
+C:\Users\Omer\source\repos\FiksturApplication\FiksturApplication\bin\Debug\net6.0\FiksturApplication.pdb
+C:\Users\Omer\source\repos\FiksturApplication\FiksturApplication\obj\Debug\net6.0\FiksturApplication.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\FiksturApplication\FiksturApplication\obj\Debug\net6.0\FiksturApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\source\repos\FiksturApplication\FiksturApplication\obj\Debug\net6.0\FiksturApplication.AssemblyInfoInputs.cache
+C:\Users\Omer\source\repos\FiksturApplication\FiksturApplication\obj\Debug\net6.0\FiksturApplication.AssemblyInfo.cs
+C:\Users\Omer\source\repos\FiksturApplication\FiksturApplication\obj\Debug\net6.0\FiksturApplication.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\FiksturApplication\FiksturApplication\obj\Debug\net6.0\FiksturApplication.dll
+C:\Users\Omer\source\repos\FiksturApplication\FiksturApplication\obj\Debug\net6.0\refint\FiksturApplication.dll
+C:\Users\Omer\source\repos\FiksturApplication\FiksturApplication\obj\Debug\net6.0\FiksturApplication.pdb
+C:\Users\Omer\source\repos\FiksturApplication\FiksturApplication\obj\Debug\net6.0\FiksturApplication.genruntimeconfig.cache
+C:\Users\Omer\source\repos\FiksturApplication\FiksturApplication\obj\Debug\net6.0\ref\FiksturApplication.dll
